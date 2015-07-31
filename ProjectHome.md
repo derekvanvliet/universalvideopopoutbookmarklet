@@ -1,0 +1,1 @@
+Inspired by the "Popout" links in Google Reader, the Universal Video Popout Bookmarklet lets you pop a flash video out of the page you are currently viewing into its own window.
